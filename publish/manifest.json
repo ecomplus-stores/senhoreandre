@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.a43aad139f47a9cd71dbe46f8160a687.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.a6c0a11090a359fd94f844aaf9911ddf.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.b0aab0787a6c39d9edcd004873200dd0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.6023c49d3503f9b302bb42691c6491f1.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.d2c7f1d771d72e477f87ad614086de36.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Senhor & André editora.",
+  "short_name": "Senhor & André editora.",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Senhor & André editora.",
+  "background_color": "#060606",
+  "theme_color": "#0b0b0b"
+}
