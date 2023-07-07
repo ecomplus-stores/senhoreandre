@@ -1,7 +1,7 @@
 {
   "domain": "senhoreandre.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#8b8c90",
+  "primary_color": "#0b0b0b",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -19,7 +19,7 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#525355",
-  "icon": "/img/uploads/esenhoreandrelogo.png",
+  "icon": "/img/uploads/img_20230706_224217.jpg",
   "store_id": 51424,
   "description": "Senhor & André editora.",
   "large_icon": "/img/uploads/esenhoreandrelogo.png"
