@@ -12,7 +12,7 @@
       "collection_id": null,
       "sort": "sales",
       "title": "",
-      "headless": false,
+      "headless": true,
       "limit": 1,
       "page": 1
     },
